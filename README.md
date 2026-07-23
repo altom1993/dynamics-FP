@@ -41,7 +41,7 @@ Calculates the energy dynamics for different interaction-ramp strengths.
 
 Calculates the impurity momentum distribution \(n_k\).
 
-The momentum grid is uniformly spaced in \(\log k\). The oscillatory time integral is evaluated using a piecewise-linear Fourier transform and an oversampled fast Fourier transform.
+The oscillatory time integral is evaluated using a piecewise-linear Fourier transform and an oversampled fast Fourier transform.
 
 ## Main Parameters
 
